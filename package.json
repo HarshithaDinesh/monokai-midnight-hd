@@ -1,0 +1,21 @@
+{
+  "name": "monokai-midnight-hd",
+  "displayName": "Monokai Midnight HD",
+  "description": "Monokai Theme with darker background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Midnight HD",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Midnight HD-color-theme.json"
+      }
+    ]
+  }
+}
