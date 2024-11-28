@@ -10,14 +10,14 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#75715E"
+				"foreground": "#684c67"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#8f8f6b"
+				"foreground": "#9fb9af"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#cd0951"
 			}
 		},
 		{
@@ -71,7 +71,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#009eba"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#ce004f"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#8bce04"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#009eba"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#009eba"
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#F8F8F2",
 		"editorWhitespace.foreground": "#49483E",
-		"editor.lineHighlightBackground": "#49483E",
+		"editor.lineHighlightBackground": "#000000",
 		"editor.selectionBackground": "#49483E"
 	},
 	"name": "Monokai Midnight HD"
