@@ -10,21 +10,21 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#684c67"
+				"foreground": "#595959"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#9fb9af"
+				"foreground": "#95b4af"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#4cbfb7b9"
 			}
 		},
 		{
@@ -41,7 +41,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#493969"
 			}
 		},
 		{
@@ -71,7 +71,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#009eba"
+				"foreground": "#fa006d"
 			}
 		},
 		{

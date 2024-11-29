@@ -1,7 +1,19 @@
 {
   "name": "monokai-midnight-hd",
-  "displayName": "Monokai Midnight HD",
-  "description": "Monokai Theme with darker background",
+  "displayName": "Strawberry Coffee",
+  "description": "To all Monokai lovers who prefer a darker, sleeker background: Strawberry Coffee is here! This theme almost retains the beloved Monokai color scheme while offering a black background for better contrast and reduced eye strain. Perfect for late-night coding or anyone who enjoys a stylish twist on a classic",
+  "publisher": "harshithadinesh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarshithaDinesh/monokai-midnight-hd"
+  },
+  "keywords": [
+    "strawberry",
+    "monokai",
+    "dark bg",
+    "black background",
+    "pink"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -12,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Midnight HD",
+        "label": "Strawberry Coffee",
         "uiTheme": "vs-dark",
         "path": "./themes/Monokai Midnight HD-color-theme.json"
       }
